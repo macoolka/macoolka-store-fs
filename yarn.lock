@@ -2349,9 +2349,9 @@ lodash.sortby@^4.7.0:
   integrity sha1-7dFMgk4sycHgsKG0K7UhBRakJDg=
 
 lodash@^4.17.11, lodash@^4.17.13:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 loose-envify@^1.0.0:
   version "1.4.0"
@@ -2397,7 +2397,7 @@ macoolka-compare@^0.2.0:
     macoolka-predicate "^0.2.1"
     micromatch "^4.0.2"
 
-macoolka-fs@^0.2.0:
+macoolka-fs@^0.2.2:
   version "0.2.2"
   resolved "https://registry.yarnpkg.com/macoolka-fs/-/macoolka-fs-0.2.2.tgz#ecbbe000b944874554cce8f70b105a52c04d9a26"
   integrity sha512-QVk4dYzCQ/0X9cZxhG9wZdDHbX/irMSEJVElCXGPuTH2vtoN+hZncWuxCe6wV40imi87RbDNXAFrOIPsBwNvow==
