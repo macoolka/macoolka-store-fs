@@ -2397,7 +2397,7 @@ macoolka-compare@^0.2.0:
     macoolka-predicate "^0.2.1"
     micromatch "^4.0.2"
 
-macoolka-fs@^0.2.0:
+macoolka-fs@^0.2.2:
   version "0.2.2"
   resolved "https://registry.yarnpkg.com/macoolka-fs/-/macoolka-fs-0.2.2.tgz#ecbbe000b944874554cce8f70b105a52c04d9a26"
   integrity sha512-QVk4dYzCQ/0X9cZxhG9wZdDHbX/irMSEJVElCXGPuTH2vtoN+hZncWuxCe6wV40imi87RbDNXAFrOIPsBwNvow==
@@ -3650,9 +3650,9 @@ throat@^4.0.0:
   integrity sha1-iQN8vJLFarGJJua6TLsgDhVnKmo=
 
 tmpl@1.0.x:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.4.tgz#23640dd7b42d00433911140820e5cf440e521dd1"
-  integrity sha1-I2QN17QtAEM5ERQIIOXPRA5SHdE=
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.5.tgz#8683e0b902bb9c20c4f726e3c0b69f36518c07cc"
+  integrity sha512-3f0uOEAQwIqGuWW2MVzYg8fV/QNnc/IpuJNG837rLuczAaLVHslWHZQj4IGiEl5Hs3kkbhwL9Ab7Hrsmuj+Smw==
 
 to-fast-properties@^2.0.0:
   version "2.0.0"
